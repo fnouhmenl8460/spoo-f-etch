@@ -41,7 +41,7 @@ If your distro or package manager is not detected, the script will prompt you to
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/spoo-f-etch.git
+git clone https://github.com/fnouhmenl846/spoo-f-etch
 cd spoo-f-etch
 chmod +x installer.sh
 ./installer.sh
